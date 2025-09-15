@@ -1,0 +1,132 @@
+James FALLOUH
+
+
+fallouh.james@gmail.com
+5145615181
+Montreal, Canada
+
+
+
+------------------------
+IT Technician
+
+
+------------------------
+<!--StartFragment-->Bilingual (English/French) IT professional with 6+ years’ experience across desktop support and systems operations. Strong at troubleshooting operating systems, server hardware, and network services; hands-on with Linux (Debian/Ubuntu) and Windows Server, AD/DNS/VPN, and basic scripting (PowerShell/Python). Track record of maintaining production infrastructure, resolving incidents quickly, and implementing preventive maintenance with clear, calm communication.<!--EndFragment--><!--EndFragment-->
+
+
+Work Experience
+------------------------
+IT Support Specialist
+Total Logistics Control Inc.
+10/2024 - Present
+Vaudreuil-Dorion, QC, CANADA
+Achievements/Tasks
+- <!--StartFragment-->Diagnose and resolve Windows/Linux, AD, VPN, and Exchange access issues.<!--EndFragment--> 
+- <!--StartFragment-->Maintain servers and endpoints; perform account provisioning, permissions, and updates.<!--EndFragment--> 
+- <!--StartFragment-->Execute hardware swaps and peripheral installs; document procedures and changes.<!--EndFragment--> 
+
+
+
+Service Desk Technician
+Apptoza Agency / Bombardier
+02/2023 - 08/2023
+Dorval, QC, CANADA
+Achievements/Tasks
+- <!--StartFragment-->Provided L1 support via ServiceNow: triaged incidents/requests, remote-assisted users, and resolved common issues (logins, email, OS/app errors, peripherals).<!--EndFragment--><!--EndFragment--> 
+- <!--StartFragment-->Performed password resets and account unlocks (AD/SafeNet), basic AD updates, and connectivity troubleshooting for VPN (Pulse Secure) and Citrix; escalated per SOP when required.<!--EndFragment--><!--EndFragment--> 
+- <!--StartFragment-->Used SCCM to image devices and deploy software; prepared corporate laptops and handled printer/driver issues to restore service.<!--EndFragment--> 
+
+
+
+IT Technician (Internships)
+IntelGenx & Thread Collective
+02/2022 - 06/2022
+Dorval, QC,CANADA
+Achievements/Tasks
+- <!--StartFragment-->Imaged/deployed Windows/macOS; installed security tools; configured email, VoIP, and printers.<!--EndFragment--> 
+- <!--StartFragment-->Performed cable tracing and basic switch/port checks; set up user accounts and device policies.<!--EndFragment--> 
+- <!--StartFragment-->Wrote setup/troubleshooting guides and asset logs to standardize onboarding.<!--EndFragment--> 
+
+
+
+Technical Support
+Jamiliah Tech Store
+09/2010 - 07/2015
+Aleppo, Syria
+Achievements/Tasks
+- <!--StartFragment-->Installed/configured Windows/macOS, drivers, and security suites, handled data backup/migration<!--EndFragment--> 
+- <!--StartFragment--> Delivered walk-in troubleshooting and user training maintained service records<!--EndFragment--> 
+- <!--StartFragment-->Built/refurbished PCs,  set up routers/Wi-Fi and basic LAN services for SOHO clients<!--EndFragment--> 
+
+
+
+
+
+
+Skills
+------------------------
+-Linux (Debian/Ubuntu/Fedora/CentOS)
+-Windows Server replace/repair
+-Exchange/EWS
+-TCP/IP
+-Linux
+-AD/DNS/DHCP/Group Policy
+-VPN
+-SSH
+-Preventive maintenance
+-Wireshark
+-Automation
+-Hardware replace/repair
+-devops
+-STP
+-EtherChannel
+-Version Control /Git / Github
+-Docker
+-Crystal Reports
+
+
+
+Education
+------------------------
+ACS, Full-Stack Development
+John Abbott College
+10/2023 - 12/2024
+Sainte-Anne-de-Bellevue, QC, CANADA
+Courses
+
+
+ACS, Network & System Administration
+John Abbott College
+02/2021 - 06/2022
+Sainte-Anne-de-Bellevue, QC, CANADA
+Courses
+
+
+BSc, Topographic Engineering
+University of Aleppo
+09/2010 - 07/2015
+Aleppo, Syria
+Courses
+
+
+
+
+
+Training & Courses (Coursera – Google/Google Cloud)
+------------------------
+CCNA v7 Switching, Routing, and Wireless Essentials CCNA v7 Enterprise Networking, Security, and Automation Cisco networking Academy
+06/2021 - 12/2021
+
+
+Operating Systems and You: Becoming a Power User  Google
+05/2022 - 06/2022
+
+
+Google Cloud Fundamentals: Core Infrastructure
+06/2022 - 06/2022
+
+
+
+
+
