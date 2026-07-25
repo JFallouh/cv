@@ -280,6 +280,7 @@
             color: #e94560;
             border: 2px solid #e94560;
         }
+
         #downloadmeBtn {
             color: #e94560;
             border: 2px solid #e94560;
@@ -304,7 +305,9 @@
 
         /* Video Container for Desktop */
         #hero .video-container {
-            margin-top: 40px;
+            width: 1200px;
+            max-width: 90vw;
+            margin: 40px auto 0;
             background: #dae3ec;
             border-radius: 25px;
             padding: 20px;
@@ -329,6 +332,7 @@
         /* Ensure iframe is responsive and fits inside the container */
         .video-container iframe {
             width: 100%;
+            aspect-ratio: 16 / 10;
             height: auto;
             /* Maintain aspect ratio */
             border-radius: 15px;
@@ -562,9 +566,10 @@
             #watchDemoBtn {
                 display: none;
             }
-            #downloadmeBtn{
-            display: inline-block;
-        }
+
+            #downloadmeBtn {
+                display: inline-block;
+            }
 
             #videoContainer {
                 display: block;
